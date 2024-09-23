@@ -1,0 +1,1 @@
+<?php $yours = 'your@email.com'; // Your Email here ! ?>
